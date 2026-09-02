@@ -60,9 +60,9 @@ Quem tem computador e prefere não entregar credencial nenhuma deve ficar com o 
 
 **O script faz as outras matérias do Sala do Futuro?** Não. Só o SPeak, o módulo de inglês. As demais tarefas do CMSP estão fora do escopo.
 
-**Funciona no celular?** Não. O Tampermonkey exige navegador de computador.
+**Funciona no celular?** No Android, sim — desde que o navegador aceite extensões, como o **Microsoft Edge** ou o **Firefox**. O Chrome de Android não aceita extensão, então nele não roda. No **iPhone/iOS não funciona**: o iOS não permite extensão de userscript em navegador nenhum — nesse caso use a opção "a gente faz por você".
 
-**Preciso dar meu RA e senha do CMSP?** **Para o script, não** — ele roda na aba que você já abriu logada, e a sua credencial nunca sai do seu computador. Só o serviço "a gente faz" precisa do RA + dígito + senha, porque alguém tem de entrar na sua conta para executar. Nesse caso a credencial é guardada criptografada (AES-256-GCM) e **apagada automaticamente até 7 dias depois da entrega** — a política está escrita em https://mikael.store/privacidade. Se você não quiser passar senha a ninguém, use o script.
+**Preciso dar meu RA e senha do CMSP?** **Para o script, não** — ele roda na aba que você já abriu logada, e a sua credencial nunca sai do seu computador. Só o serviço "a gente faz" precisa do RA + dígito + senha, porque alguém tem de entrar na sua conta para executar. Nesse caso a credencial é guardada criptografada (AES-256-GCM) e **apagada automaticamente até 7 dias depois da entrega** — a política está escrita em [mikael.store/privacidade](https://mikael.store/privacidade). Se você não quiser passar senha a ninguém, use o script.
 
 **E os scripts grátis que circulam por aí?** Quebram quando a plataforma muda o HTML e ninguém atualiza — e como não há quem mantenha, você descobre no dia da entrega. Vale também a regra geral: só digite RA e senha em site que diga quem é, o que guarda e por quanto tempo.
 
@@ -74,11 +74,11 @@ script SPeak · script Speak · script Sala do Futuro · atividades do SPeak · 
 
 ## Outros estados
 
-- [GoEnglish — Goiás](https://github.com/mikaeldevs7/Script-GoEnglish-Efekta-Speak)
+- [GoEnglish — Goiás](https://mikael.store/scripts/goEnglish)
 - [Inglês Paraná High — Paraná](https://mikael.store/parana)
 - [Mais Inglês / Plural — Mato Grosso](https://mikael.store/mato-grosso)
 - [Netescola / SER Goiás](https://mikael.store/scripts/netescola)
 
 ---
 
-© Mikael Dev · https://mikael.store
+© Mikael Dev · [mikael.store](https://mikael.store) · [Todos os scripts, por plataforma](https://mikael-devs.github.io/)
